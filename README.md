@@ -1,2 +1,0 @@
-# TextUtils
-practices of projets
